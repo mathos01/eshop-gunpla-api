@@ -29,6 +29,10 @@
 	<properties>
 		<java.version>21</java.version>
         <lombok.version>1.18.42</lombok.version>
+        <artifactId>backend</artifactId>
+        <version>1.0.0</version>
+        <name>backend_e-shop-ci-cd</name>
+        <description>Backend for e-shop project demo for CI/CD</description>
 	</properties>
 	<dependencies>
 		<dependency>
